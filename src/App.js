@@ -39,6 +39,17 @@ export default function App() {
           url="https://cloud.digitalocean.com/apps"
         />
       </div>
+            <script async
+                src="https://uwp2v2tvklpc26l6ubi3w4wj.agents.do-ai.run/static/chatbot/widget.js"
+                data-agent-id="169a8bc3-ccff-11f0-b074-4e013e2ddde4"
+                data-chatbot-id="demA90tdbD0NIxnpv2dYx_J1jW51IcsD"
+                data-name="agent-11292025 Chatbot"
+                data-primary-color="#031B4E"
+                data-secondary-color="#E5E8ED"
+                data-button-background-color="#0061EB"
+                data-starting-message="Hello! How can I help you today?"
+                data-logo="/static/chatbot/icons/default-agent.svg">
+            </script>
     </div>
   );
 }
